@@ -1,0 +1,42 @@
+Body {background-color: darkslategrey;}
+h3,p{color: white;}
+ol{color: white;}
+pre{font-size: 1.7em;
+color:white;}
+h1,h2{font-family:fantasy;
+color: aqua;}
+blockquote{color: darkmagenta;
+	font-size:2em;
+	background: bisque; }
+	#links {
+	float: left;
+	width: 22.5%;
+	margin: 0 0 0 2.5%;
+
+			}
+	#main {
+	float: left;
+	width: 60%;
+	margin: 0 2.5%;
+	}
+
+	#footer {
+	clear: left;
+	color:deeppink;
+		}
+		a.smooth {
+	display: block;
+	text-decoration:none;
+	text-align: center;
+	padding: 1em 2em;
+	width: 8em;
+	border-radius: 1.5em;
+	color:darkmagenta;
+	background-color:bisque;
+	transition-property: background-color;
+	transition-property: background-color;
+	transition-duration: 0.3s;
+		}
+	a.smooth:hover, a.smooth:focus {
+	background-color:chartreuse;
+	}

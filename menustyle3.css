@@ -1,0 +1,43 @@
+Body	{background-color: black;}
+h1{	font-style: italic;
+color: white;
+	font-size:2em;}
+#header{
+border-color: darkmagenta;}
+	#links {
+	float: left;
+	width: 20%;
+	margin: 0 0 0 1%;
+			}
+	#main {
+	float: left;
+	width: 45%;
+	margin: 0 2.5%;
+	color: white;
+	}
+	#news {
+	float: left;
+	width: 22.5%;
+	margin: 0 2.5% 0 0;
+	color: white;
+		}
+	#footer {
+	clear: left;
+	color:darkmagenta;
+		}
+	a.smooth {
+display: block;
+text-decoration:none;
+text-align: center;
+padding: 1em 2em;
+width: 8em;
+border-radius: 1.5em;
+color:darkmagenta;
+background-color:bisque;
+transition-property: background-color;
+transition-property: background-color;
+transition-duration: 0.3s;
+}
+a.smooth:hover, a.smooth:focus {
+background-color:chartreuse;
+}

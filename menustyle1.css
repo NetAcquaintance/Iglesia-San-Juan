@@ -1,5 +1,6 @@
 
-Body {background-color: darkslategrey;}
+Body {background-color: darkslategrey;
+font-size: large;}
 p,h3,p,ol,pre {color: white;}
 h1,h2,strong{font-family:fantasy;
 color: aqua;}

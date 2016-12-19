@@ -1,0 +1,82 @@
+img {
+width: 150px;
+height: 150px;
+box-shadow: 2px 2px 2px rgba(0,0,0,.4);
+transition: transform .3s ease-in-out;
+}
+a:hover img {
+box-shadow: 6px 6px 6px rgba(0,0,0,.3);
+}a:hover #img1a, a:focus #img1a{
+transform: scale(2.5) rotate(2deg);
+}
+a:hover #img22, a:focus #img22{
+transform: scale(2.5) rotate(-3deg);
+}
+a:hover #img8, a:focus #img8{
+transform: scale(2.5) rotate(-3deg);
+}
+a:hover #img45, a:focus #img45{
+transform: scale(2.5) rotate(-3deg);
+}
+a:hover #img48, a:focus #img48{
+transform: scale(2.5) rotate(-3deg);
+}
+a:hover #img49, a:focus #img49{
+transform: scale(2.5) rotate(-3deg);
+}
+a:hover #img50, a:focus #img50{
+transform: scale(2.5) rotate(-3deg);
+}
+
+a:hover #img3, a:focus #img3{
+transform: scale(2.5) rotate(-3deg);
+}
+a:hover #img24, a:focus #img24{
+transform: scale(2.5) rotate(-3deg);
+}
+a:hover #img40, a:focus #img40{
+transform: scale(2.5) rotate(-3deg);}
+a:hover #img46, a:focus #img46{
+transform: scale(2.5) rotate(-3deg);}
+a:hover #img47, a:focus #img47{
+transform: scale(2.5) rotate(-3deg);
+}
+a:hover #img28, a:focus #img28{
+transform: scale(2.5) rotate(2deg);
+}
+a:hover #img30, a:focus #img30{
+transform: scale(2.5) rotate(2deg);
+}
+a:hover #img31, a:focus #img31{
+transform: scale(2.5) rotate(2deg);
+}
+a:hover #img32, a:focus #img32 {
+transform: scale(2.5) rotate(2deg);
+}a:hover #img33, a:focus #img33 {
+transform: scale(2.5) rotate(2deg);
+}
+a:hover #img34, a:focus #img34 {
+transform: scale(2.5) rotate(2deg);
+}
+a:hover #img35, a:focus #img35 {
+transform: scale(2.5) rotate(2deg);
+}
+a:hover #img36, a:focus #img36 {
+transform: scale(2.5) rotate(2deg);
+}
+a:hover #img37, a:focus #img37{
+transform: scale(2.5) rotate(2deg);
+}a:hover #img38, a:focus #img38{
+transform: scale(2.5) rotate(2deg);
+}a:hover #img39, a:focus #img39 {
+transform: scale(3) rotate(2deg);
+}a:hover #img16, a:focus #img16 {
+transform: scale(2.5) rotate(2deg);
+}a:hover #img15, a:focus #img15 {
+transform: scale(2.5) rotate(2deg);
+}a:hover #img28, a:focus #img28 {
+}a:hover #img23, a:focus #img28 {
+transform: scale(2.5) rotate(2deg);
+}a:hover #img44, a:focus #img44 {
+transform: scale(2.5) rotate(2deg);
+}

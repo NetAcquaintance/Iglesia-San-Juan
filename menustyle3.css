@@ -2,12 +2,13 @@ Body	{background-color: black;font-size: large;}
 h1{	font-style: italic;
 color: white;
 	font-size:2em;}
+	h3{color:darkmagenta;}
 #header{
 border-color: darkmagenta;}
 	#links {
-	float: left;
+	float: right;
 	width: 20%;
-	margin: 0 0 0 1%;
+	margin: 0 0 0 2.5%;
 			}
 	#main {
 	float: left;
@@ -30,11 +31,10 @@ display: block;
 text-decoration:none;
 text-align: center;
 padding: 1em 2em;
-width: 8em;
+width: 7em;
 border-radius: 1.5em;
 color:darkmagenta;
 background-color:bisque;
-transition-property: background-color;
 transition-property: background-color;
 transition-duration: 0.3s;
 }

@@ -6,7 +6,7 @@ color: aqua;}
 
 	pre{color: red;}
 	#links {
-	float: left;
+	float: right;
 	width: 22.5%;
 	margin: 0 0 0 2.5%;
 
@@ -26,15 +26,12 @@ color: aqua;}
 	text-decoration:none;
 	text-align: center;
 	padding: 1em 2em;
-	width: 8em;
+	width: 7em;
 	border-radius: 1.5em;
 	color:darkmagenta;
 	background-color:bisque;
 	transition-property: background-color;
-	transition-property: background-color;
 	transition-duration: 0.3s;
-	background-color
-	background-position
 	}
 	a.smooth:hover, a.smooth:focus {
 	background-color:chartreuse;

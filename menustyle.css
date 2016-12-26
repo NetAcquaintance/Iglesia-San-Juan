@@ -10,7 +10,7 @@ blockquote{color: darkmagenta;
 	font-size:2em;
 	background: bisque; }
 	#links {
-	float: left;
+	float: right;
 	width: 22.5%;
 	margin: 0 0 0 2.5%;
 
@@ -30,7 +30,7 @@ blockquote{color: darkmagenta;
 	text-decoration:none;
 	text-align: center;
 	padding: 1em 2em;
-	width: 8em;
+	width: 7em;
 	border-radius: 1.5em;
 	color:darkmagenta;
 	background-color:bisque;

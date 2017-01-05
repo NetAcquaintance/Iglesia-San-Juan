@@ -9,8 +9,15 @@ color: aqua;}
 blockquote{color: darkmagenta;
 	font-size:2em;
 	background: bisque; }
+	img {
+	max-width: 100%;
+	}
+	@media screen and (min-width: 481px) {
+		pre{font-size: 1.7em;
+		color:white;}
+
 	#links {
-	float: right;
+	float: left;
 	width: 22.5%;
 	margin: 0 0 0 2.5%;
 
@@ -25,12 +32,13 @@ blockquote{color: darkmagenta;
 	clear: left;
 	color:deeppink;
 		}
+	}
 		a.smooth {
 	display: block;
 	text-decoration:none;
 	text-align: center;
-	padding: 1em 2em;
-	width: 7em;
+	padding: 0.5em 2em;
+	width: 6.5em;
 	border-radius: 1.5em;
 	color:darkmagenta;
 	background-color:bisque;

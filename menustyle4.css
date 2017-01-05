@@ -1,5 +1,7 @@
 
+@media screen and (min-width: 481px) {
 img {
+  max-width: 100%;
 width: 150px;
 height: 150px;
 box-shadow: 2px 2px 2px rgba(0,0,0,.4);
@@ -80,4 +82,5 @@ transform: scale(2.5) rotate(2deg);
 transform: scale(2.5) rotate(2deg);
 }a:hover #img44, a:focus #img44 {
 transform: scale(2.5) rotate(2deg);
+}
 }

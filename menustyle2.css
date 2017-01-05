@@ -3,10 +3,13 @@ font-size: large;}
 p{color:white;}
 h1,h2{font-family:fantasy;
 color: aqua;}
-
 	pre{color: red;}
+	img {
+	max-width: 100%;
+	}
+	@media screen and (min-width: 481px) {
 	#links {
-	float: right;
+	float: left;
 	width: 22.5%;
 	margin: 0 0 0 2.5%;
 
@@ -21,12 +24,13 @@ color: aqua;}
 	clear: left;
 	color:deeppink;
 		}
+	}
 		a.smooth {
 	display: block;
 	text-decoration:none;
 	text-align: center;
-	padding: 1em 2em;
-	width: 7em;
+	padding: 0.5em 2em;
+	width: 6.5em;
 	border-radius: 1.5em;
 	color:darkmagenta;
 	background-color:bisque;

@@ -1,13 +1,16 @@
 
+
 Body {background-color: darkslategrey;
 font-size: large;}
 p,h3,p,ol,pre {color: white;}
 h1,h2,strong{font-family:fantasy;
 color: aqua;}
-
-
+img {
+max-width: 100%;
+}
+@media screen and (min-width: 481px) {
 	#links{
-	float: right;
+	float: left;
 	width: 20%;
 	margin: 0 0 0 2.5%;
 			}
@@ -27,12 +30,13 @@ color: aqua;}
 clear: left;
 color:white;
 	}
+}
 	a.smooth {
 display: block;
 text-decoration:none;
 text-align: center;
-padding: 1em 2em;
-width: 7em;
+padding: 0.5em 2em;
+width: 6.5em;
 border-radius: 1.5em;
 color:darkmagenta;
 background-color:bisque;
